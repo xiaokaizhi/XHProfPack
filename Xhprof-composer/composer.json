@@ -1,0 +1,18 @@
+{
+    "name": "vega/xhprof",
+    "type": "library",
+    "description": "vega Xhprof for composer",
+    "keywords": ["vega", "xhprof"],
+    "authors": [
+        {
+            "name": "suqian",
+            "email": "suqian@baidu.com",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {        
+       "psr-4": {
+            "Vega\\Test\\": "src/psr4"
+        }
+    }
+}
