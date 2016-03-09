@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>JSON 测试</title>
+    <meta http-equiv ="Content-Type" content="text/html; charset=utf-8" />
+    <script type="text/javascript" src= "jquery-1.9.1.js"></script>
+    <script type="text/javascript" src= "ichart.1.1.js"></script>
+    <script>
+        $(function(){
+//            $("#integrityresult13").append(retHtml);
+//            function retHtml(){
+//                var str = '<div id="collapseresult131">测试</div><br />';
+//                return str;
+//            }
+
+
+    var i = 11;
+            $("#integrityresult13").append(function(){
+                var cnt = 130;
+                var str = "";
+                for(i = 0 ;i < 11; i++){
+                     var seq = cnt+i;
+                     str += "<div id=" + "collapseresult"+ seq +">"+seq+"</div><br />";
+                }
+                return str;
+            });
+
+            /** */
+            var title = '整体完整性-图书数量波动';
+            var flow = [78,65,43,88,70,33,78,89,22,35,67,89,35,67];
+            var labels11 = ["0630","0701","0702","0703","0704","0705","0706","0707","0708","0709","0710","0711","0712","0713"];
+            var data11 = [
+                {
+                    name : '数量',
+                    value:flow,
+                    color:'#0d8ecf',
+                    line_width:2
+                }
+            ];
+            var line11 = new iChart.LineBasic2D({
+                render : 'collapseresult131',
+                data: data11,
+                align:'center',
+                title : title,
+//                subtitle : '',
+                footnote : '数据来源：weibo.com',
+                width : 600,
+                height : 400,
+                sub_option:{
+                    smooth : true,//平滑曲线
+                    point_size:10
+                },
+                tip:{
+                    enable:true,
+                    shadow:true
+                },
+                legend : {
+                    enable : false
+                },
+                crosshair:{
+                    enable:true,
+                    line_color:'#62bce9'
+                },
+                coordinate:{
+                    width:600,
+                    valid_width:500,
+                    height:260,
+                    axis:{
+                        color:'#9f9f9f',
+                        width:[0,0,2,2]
+                    },
+                    grids:{
+                        vertical:{
+                            way:'share_alike',
+                            value:12
+                        }
+                    },
+                    scale:[{
+                        position:'left',
+                        start_scale:0,
+                        end_scale:100,
+                        scale_space:10,
+                        scale_size:2,
+                        scale_color:'#9f9f9f'
+                    },{
+                        position:'bottom',
+                        labels:labels11
+                    }]
+                }
+            });
+            line11.draw();
+
+        });
+    </script>
+    <script type="text/javascript">
+
+          var testarr = new Array(1,2);
+          var len = testarr.length;
+          console.log('1222:',len);
+
+    </script>
+
+
+</head>
+<body>
+
+
+<div class="accordion-inner" id="integrityresult13">
+    <!--<div id="collapseresult131"></div>-->
+    <!--<br />-->
+    <!--<div id="collapseresult132"></div>-->
+</div>
+
+</body>
+</html>

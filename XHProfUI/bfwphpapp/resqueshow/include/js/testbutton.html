@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>button</title>
+    <meta http-equiv ="Content-Type" content="text/html; charset=utf-8" />
+    <script type="text/javascript" src= "jquery-1.9.1.js"></script>
+    <script type="text/javascript">
+        $(function(){
+            $("#btnsubmit").click(function(){
+                alert("hello");
+            });
+
+            $("#btnhref").click(function(){
+
+                alert("tongzhen");
+            });
+
+        })
+
+    </script>
+</head>
+<body>
+<form method="post" action="http://weibo.com">
+    <input type="text" id="txtname" name="txtname" value="" />
+
+    <button id="btnsubmit" >提交</button>
+    <br>
+    <a href="javascript:void(0);" id="btnhref">提交</a>
+
+</form>
+
+</body>
+</html>

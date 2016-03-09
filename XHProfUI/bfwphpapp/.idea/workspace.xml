@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f0b94021-95d6-4127-8f40-1fd41bb0af53" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bfw.php" afterPath="$PROJECT_DIR$/bfw.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/evaluate/app.php" afterPath="$PROJECT_DIR$/evaluate/app.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/evaluate/class/mod/logtest/logtest.php" afterPath="$PROJECT_DIR$/evaluate/class/mod/logtest/logtest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/evaluate/class/obj/logtest/logtest.php" afterPath="$PROJECT_DIR$/evaluate/class/obj/logtest/logtest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/evaluate/include/resque/.travis.yml" afterPath="$PROJECT_DIR$/evaluate/include/resque/.travis.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/evaluate/include/resque/CHANGELOG.md" afterPath="$PROJECT_DIR$/evaluate/include/resque/CHANGELOG.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/evaluate/include/resque/LICENSE" afterPath="$PROJECT_DIR$/evaluate/include/resque/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/evaluate/include/resque/README.md" afterPath="$PROJECT_DIR$/evaluate/include/resque/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/evaluate/include/resque/build.xml" afterPath="$PROJECT_DIR$/evaluate/include/resque/build.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/evaluate/include/resque/composer.json" afterPath="$PROJECT_DIR$/evaluate/include/resque/composer.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/evaluate/include/resque/demo/bad_job.php" afterPath="$PROJECT_DIR$/evaluate/include/resque/demo/bad_job.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/evaluate/include/resque/demo/check_status.php" afterPath="$PROJECT_DIR$/evaluate/include/resque/demo/check_status.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/evaluate/include/resque/demo/job.php" afterPath="$PROJECT_DIR$/evaluate/include/resque/demo/job.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/evaluate/include/resque/demo/long_job.php" afterPath="$PROJECT_DIR$/evaluate/include/resque/demo/long_job.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/evaluate/include/resque/demo/php_error_job.php" afterPath="$PROJECT_DIR$/evaluate/include/resque/demo/php_error_job.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/evaluate/include/resque/demo/queue.php" afterPath="$PROJECT_DIR$/evaluate/include/resque/demo/queue.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/evaluate/include/resque/demo/resque.php" afterPath="$PROJECT_DIR$/evaluate/include/resque/demo/resque.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/evaluate/include/resque/extras/resque.logrotate" afterPath="$PROJECT_DIR$/evaluate/include/resque/extras/resque.logrotate" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/evaluate/include/resque/extras/resque.monit" afterPath="$PROJECT_DIR$/evaluate/include/resque/extras/resque.monit" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/evaluate/include/resque/extras/sample-plugin.php" afterPath="$PROJECT_DIR$/evaluate/include/resque/extras/sample-plugin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/evaluate/include/resque/lib/Redisent/LICENSE" afterPath="$PROJECT_DIR$/evaluate/include/resque/lib/Redisent/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/evaluate/include/resque/lib/Redisent/README.markdown" afterPath="$PROJECT_DIR$/evaluate/include/resque/lib/Redisent/README.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/evaluate/include/resque/lib/Redisent/Redisent.php" afterPath="$PROJECT_DIR$/evaluate/include/resque/lib/Redisent/Redisent.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/evaluate/include/resque/lib/Redisent/RedisentCluster.php" afterPath="$PROJECT_DIR$/evaluate/include/resque/lib/Redisent/RedisentCluster.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/evaluate/include/resque/lib/Resque.php" afterPath="$PROJECT_DIR$/evaluate/include/resque/lib/Resque.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/evaluate/include/resque/lib/Resque/Event.php" afterPath="$PROJECT_DIR$/evaluate/include/resque/lib/Resque/Event.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/evaluate/include/resque/lib/Resque/Exception.php" afterPath="$PROJECT_DIR$/evaluate/include/resque/lib/Resque/Exception.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/evaluate/include/resque/lib/Resque/Failure.php" afterPath="$PROJECT_DIR$/evaluate/include/resque/lib/Resque/Failure.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/evaluate/include/resque/lib/Resque/Failure/Interface.php" afterPath="$PROJECT_DIR$/evaluate/include/resque/lib/Resque/Failure/Interface.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/evaluate/include/resque/lib/Resque/Failure/Redis.php" afterPath="$PROJECT_DIR$/evaluate/include/resque/lib/Resque/Failure/Redis.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/evaluate/include/resque/lib/Resque/Job.php" afterPath="$PROJECT_DIR$/evaluate/include/resque/lib/Resque/Job.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/evaluate/include/resque/lib/Resque/Job/DirtyExitException.php" afterPath="$PROJECT_DIR$/evaluate/include/resque/lib/Resque/Job/DirtyExitException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/evaluate/include/resque/lib/Resque/Job/DontPerform.php" afterPath="$PROJECT_DIR$/evaluate/include/resque/lib/Resque/Job/DontPerform.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/evaluate/include/resque/lib/Resque/Job/Status.php" afterPath="$PROJECT_DIR$/evaluate/include/resque/lib/Resque/Job/Status.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/evaluate/include/resque/lib/Resque/Redis.php" afterPath="$PROJECT_DIR$/evaluate/include/resque/lib/Resque/Redis.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/evaluate/include/resque/lib/Resque/RedisCluster.php" afterPath="$PROJECT_DIR$/evaluate/include/resque/lib/Resque/RedisCluster.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/evaluate/include/resque/lib/Resque/Stat.php" afterPath="$PROJECT_DIR$/evaluate/include/resque/lib/Resque/Stat.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/evaluate/include/resque/lib/Resque/Worker.php" afterPath="$PROJECT_DIR$/evaluate/include/resque/lib/Resque/Worker.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/evaluate/include/resque/phpunit.xml" afterPath="$PROJECT_DIR$/evaluate/include/resque/phpunit.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/evaluate/include/resque/resque.php" afterPath="$PROJECT_DIR$/evaluate/include/resque/resque.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/evaluate/include/resque/test/Resque/Tests/EventTest.php" afterPath="$PROJECT_DIR$/evaluate/include/resque/test/Resque/Tests/EventTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/evaluate/include/resque/test/Resque/Tests/JobStatusTest.php" afterPath="$PROJECT_DIR$/evaluate/include/resque/test/Resque/Tests/JobStatusTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/evaluate/include/resque/test/Resque/Tests/JobTest.php" afterPath="$PROJECT_DIR$/evaluate/include/resque/test/Resque/Tests/JobTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/evaluate/include/resque/test/Resque/Tests/StatTest.php" afterPath="$PROJECT_DIR$/evaluate/include/resque/test/Resque/Tests/StatTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/evaluate/include/resque/test/Resque/Tests/TestCase.php" afterPath="$PROJECT_DIR$/evaluate/include/resque/test/Resque/Tests/TestCase.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/evaluate/include/resque/test/Resque/Tests/WorkerTest.php" afterPath="$PROJECT_DIR$/evaluate/include/resque/test/Resque/Tests/WorkerTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/evaluate/include/resque/test/Resque/Tests/bootstrap.php" afterPath="$PROJECT_DIR$/evaluate/include/resque/test/Resque/Tests/bootstrap.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/evaluate/include/resque/test/misc/redis.conf" afterPath="$PROJECT_DIR$/evaluate/include/resque/test/misc/redis.conf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/file.php" afterPath="$PROJECT_DIR$/lib/file.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resqueshow/config/mysql.conf.php" afterPath="$PROJECT_DIR$/resqueshow/config/mysql.conf.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resqueshow/include/resque/.travis.yml" afterPath="$PROJECT_DIR$/resqueshow/include/resque/.travis.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resqueshow/include/resque/CHANGELOG.md" afterPath="$PROJECT_DIR$/resqueshow/include/resque/CHANGELOG.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resqueshow/include/resque/LICENSE" afterPath="$PROJECT_DIR$/resqueshow/include/resque/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resqueshow/include/resque/README.md" afterPath="$PROJECT_DIR$/resqueshow/include/resque/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resqueshow/include/resque/build.xml" afterPath="$PROJECT_DIR$/resqueshow/include/resque/build.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resqueshow/include/resque/composer.json" afterPath="$PROJECT_DIR$/resqueshow/include/resque/composer.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resqueshow/include/resque/demo/bad_job.php" afterPath="$PROJECT_DIR$/resqueshow/include/resque/demo/bad_job.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resqueshow/include/resque/demo/check_status.php" afterPath="$PROJECT_DIR$/resqueshow/include/resque/demo/check_status.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resqueshow/include/resque/demo/job.php" afterPath="$PROJECT_DIR$/resqueshow/include/resque/demo/job.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resqueshow/include/resque/demo/long_job.php" afterPath="$PROJECT_DIR$/resqueshow/include/resque/demo/long_job.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resqueshow/include/resque/demo/php_error_job.php" afterPath="$PROJECT_DIR$/resqueshow/include/resque/demo/php_error_job.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resqueshow/include/resque/demo/queue.php" afterPath="$PROJECT_DIR$/resqueshow/include/resque/demo/queue.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resqueshow/include/resque/demo/resque.php" afterPath="$PROJECT_DIR$/resqueshow/include/resque/demo/resque.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resqueshow/include/resque/extras/resque.logrotate" afterPath="$PROJECT_DIR$/resqueshow/include/resque/extras/resque.logrotate" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resqueshow/include/resque/extras/resque.monit" afterPath="$PROJECT_DIR$/resqueshow/include/resque/extras/resque.monit" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resqueshow/include/resque/extras/sample-plugin.php" afterPath="$PROJECT_DIR$/resqueshow/include/resque/extras/sample-plugin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resqueshow/include/resque/lib/Redisent/LICENSE" afterPath="$PROJECT_DIR$/resqueshow/include/resque/lib/Redisent/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resqueshow/include/resque/lib/Redisent/README.markdown" afterPath="$PROJECT_DIR$/resqueshow/include/resque/lib/Redisent/README.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resqueshow/include/resque/lib/Redisent/Redisent.php" afterPath="$PROJECT_DIR$/resqueshow/include/resque/lib/Redisent/Redisent.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resqueshow/include/resque/lib/Redisent/RedisentCluster.php" afterPath="$PROJECT_DIR$/resqueshow/include/resque/lib/Redisent/RedisentCluster.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resqueshow/include/resque/lib/Resque.php" afterPath="$PROJECT_DIR$/resqueshow/include/resque/lib/Resque.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resqueshow/include/resque/lib/Resque/Event.php" afterPath="$PROJECT_DIR$/resqueshow/include/resque/lib/Resque/Event.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resqueshow/include/resque/lib/Resque/Exception.php" afterPath="$PROJECT_DIR$/resqueshow/include/resque/lib/Resque/Exception.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resqueshow/include/resque/lib/Resque/Failure.php" afterPath="$PROJECT_DIR$/resqueshow/include/resque/lib/Resque/Failure.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resqueshow/include/resque/lib/Resque/Failure/Interface.php" afterPath="$PROJECT_DIR$/resqueshow/include/resque/lib/Resque/Failure/Interface.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resqueshow/include/resque/lib/Resque/Failure/Redis.php" afterPath="$PROJECT_DIR$/resqueshow/include/resque/lib/Resque/Failure/Redis.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resqueshow/include/resque/lib/Resque/Job.php" afterPath="$PROJECT_DIR$/resqueshow/include/resque/lib/Resque/Job.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resqueshow/include/resque/lib/Resque/Job/DirtyExitException.php" afterPath="$PROJECT_DIR$/resqueshow/include/resque/lib/Resque/Job/DirtyExitException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resqueshow/include/resque/lib/Resque/Job/DontPerform.php" afterPath="$PROJECT_DIR$/resqueshow/include/resque/lib/Resque/Job/DontPerform.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resqueshow/include/resque/lib/Resque/Job/Status.php" afterPath="$PROJECT_DIR$/resqueshow/include/resque/lib/Resque/Job/Status.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resqueshow/include/resque/lib/Resque/Redis.php" afterPath="$PROJECT_DIR$/resqueshow/include/resque/lib/Resque/Redis.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resqueshow/include/resque/lib/Resque/RedisCluster.php" afterPath="$PROJECT_DIR$/resqueshow/include/resque/lib/Resque/RedisCluster.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resqueshow/include/resque/lib/Resque/Stat.php" afterPath="$PROJECT_DIR$/resqueshow/include/resque/lib/Resque/Stat.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resqueshow/include/resque/lib/Resque/Worker.php" afterPath="$PROJECT_DIR$/resqueshow/include/resque/lib/Resque/Worker.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resqueshow/include/resque/phpunit.xml" afterPath="$PROJECT_DIR$/resqueshow/include/resque/phpunit.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resqueshow/include/resque/resque.php" afterPath="$PROJECT_DIR$/resqueshow/include/resque/resque.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resqueshow/include/resque/test/Resque/Tests/EventTest.php" afterPath="$PROJECT_DIR$/resqueshow/include/resque/test/Resque/Tests/EventTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resqueshow/include/resque/test/Resque/Tests/JobStatusTest.php" afterPath="$PROJECT_DIR$/resqueshow/include/resque/test/Resque/Tests/JobStatusTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resqueshow/include/resque/test/Resque/Tests/JobTest.php" afterPath="$PROJECT_DIR$/resqueshow/include/resque/test/Resque/Tests/JobTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resqueshow/include/resque/test/Resque/Tests/StatTest.php" afterPath="$PROJECT_DIR$/resqueshow/include/resque/test/Resque/Tests/StatTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resqueshow/include/resque/test/Resque/Tests/TestCase.php" afterPath="$PROJECT_DIR$/resqueshow/include/resque/test/Resque/Tests/TestCase.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resqueshow/include/resque/test/Resque/Tests/WorkerTest.php" afterPath="$PROJECT_DIR$/resqueshow/include/resque/test/Resque/Tests/WorkerTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resqueshow/include/resque/test/Resque/Tests/bootstrap.php" afterPath="$PROJECT_DIR$/resqueshow/include/resque/test/Resque/Tests/bootstrap.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resqueshow/include/resque/test/misc/redis.conf" afterPath="$PROJECT_DIR$/resqueshow/include/resque/test/misc/redis.conf" />
+    </list>
+    <ignored path="bfwphpapp.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="bfwphpapp" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resqueshow/include/xhprof/xhprof_html/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.316279">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/resqueshow/config/mysql.conf.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bfwphpapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.lastSelected" value="configurable.group.appearance" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f0b94021-95d6-4127-8f40-1fd41bb0af53" name="Default" comment="" />
+      <created>1457494958176</created>
+      <option name="number" value="Default" />
+      <updated>1457494958176</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.123958334" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/resqueshow/config/mysql.conf.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22325581">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resqueshow/include/xhprof/xhprof_html/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.316279">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

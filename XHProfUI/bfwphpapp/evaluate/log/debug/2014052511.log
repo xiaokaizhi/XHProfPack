@@ -1,0 +1,2 @@
+2014-05-25 11:08:40	debug log
+2014-05-25 11:08:40	{"BFW_App::run":{"file":"\/var\/www\/htdocs\/githubelite\/bfwphpapp\/lib\/app.php 22 ~ 43","exeTime":0.0014939308166504},"Mod_Logtest::run":{"file":"\/var\/www\/htdocs\/githubelite\/bfwphpapp\/evaluate\/class\/mod\/logtest\/logtest.php 16 ~ 24","result":5050,"exeTime":7.7962875366211e-5}}
