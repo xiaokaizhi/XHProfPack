@@ -1,0 +1,25 @@
+
+XHProf扩展安装
+
+安装包
+(1)http://pecl.php.net/package/xhprof
+(2)目录: phpJoy/include/xhprof/tar/xhprof-0.9.4.tgz
+
+简要安装
+0. Install the XHProf extension for PHP
+
+  cd ./xhprof/extension/
+  phpize
+  ./configure --with-php-config=/usr/bin/php-config
+  make
+  make test
+  make install
+
+1. Once you have XHProf installed, you should enable it. Open your php.ini and add
+
+  [xhprof]
+  extension=xhprof.so
+
+详细安装方法请参考：
+http://blog.csdn.net/pupur99/article/details/19076159
+

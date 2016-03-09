@@ -1,0 +1,48 @@
+#!/usr/bin/php5
+
+<?php
+/*
+ *   #!/usr/local/php/bin/php  //TODO
+ */
+
+// {{{ help
+$help = <<<EOT
+Usage: ./SCRIPT [options]
+
+options:
+    -k <start|stop|watch>
+    -j <file> job name {PATH_INI_PHPD}
+    -h show this message    
+EOT;
+// }}}
+
+$opts = getopt('k:j:c:p:u:h');
+
+// {{{ init
+if (isset($opts['h'])) {
+    echo $help;
+    exit(0);
+}
+// }}}
+
+if (!isset($opts['j'])) {
+	echo 'Please init j file';
+	exit;
+}
+
+$jobName = trim(strtolower($opts['j']));
+$file = dirname(__FILE__) . '/' . $jobName . '.php';
+if (is_file($file)) {
+    require_once $file;
+    
+    if (!class_exists($opts['j'], false)) {
+    	echo 'Job Class Error';
+    	exit;
+    }
+     
+    echo 'Success';
+     
+	$rs = require_once dirname(dirname(dirname(__FILE__))) . '/include/php-resque/resque.php';
+} else {
+	echo 'Error Job';
+}
